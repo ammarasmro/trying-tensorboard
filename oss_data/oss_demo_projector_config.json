@@ -7,6 +7,12 @@
       "metadataPath": "oss_data/word2vec_10000_200d_labels.tsv"
     },
     {
+      "tensorName": "Ammar",
+      "tensorShape": [50000, 128],
+      "tensorPath": "oss_data/tensor.bytes",
+      "metadataPath": "oss_data/metadata.tsv"
+    },
+    {
       "tensorName": "Word2Vec All",
       "tensorShape": [71291, 200],
       "tensorPath": "oss_data/word2vec_full_200d_tensors.bytes",
